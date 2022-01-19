@@ -10,8 +10,11 @@ The ServiceNow CLI lets you:
 This GitHub repository simply provides links and an alternative download for the clients because ServiceNow Store requires HI/Support credentials typically only provided to admins. 
 
 ServiceNow Store links
-- ServiceNow CLI https://store.servicenow.com/sn_appstore_store.do#!/store/application/9085854adbb52810122156a8dc961910
-- CLI Metadata app https://store.servicenow.com/sn_appstore_store.do#!/store/application/5be94e20c3cb1010e44fe317a840dd15
+- [ServiceNow CLI](https://store.servicenow.com/sn_appstore_store.do#!/store/application/9085854adbb52810122156a8dc961910)
+- [CLI Metadata app](https://store.servicenow.com/sn_appstore_store.do#!/store/application/5be94e20c3cb1010e44fe317a840dd15)
 
 Documentation links:
-- https://docs.servicenow.com/bundle/rome-application-development/page/build/servicenow-cli/concept/servicenow-cli.html
+- [Documentation](https://docs.servicenow.com/bundle/rome-application-development/page/build/servicenow-cli/concept/servicenow-cli.html)
+
+Client download:
+- Download[]
