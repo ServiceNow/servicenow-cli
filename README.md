@@ -20,4 +20,4 @@ Documentation links:
 
 Client download:
 
-- [Download](https://github.com/ServiceNow/servicenow-cli/releases/download/v1.1.0/ServiceNow.CLI.zip)
+- [Download](https://github.com/ServiceNow/servicenow-cli/releases/latest)
